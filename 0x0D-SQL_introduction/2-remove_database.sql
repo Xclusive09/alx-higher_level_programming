@@ -1,2 +1,2 @@
 -- Lists all the tables of my database in my MySQL server
-SHOW TABLES;
+DROP DATABASE IF EXISTS hbtn_0c_0;
